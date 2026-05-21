@@ -25,8 +25,11 @@ def main():
 
         player.draw(screen)
 
+        player.update(delta_time)
+
         pygame.display.flip()
         delta_time = clock.tick(60) / 1000.0
+        
         
   
 if __name__ == "__main__":
