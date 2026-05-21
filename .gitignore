@@ -9,4 +9,5 @@ wheels/
 # Virtual environments
 .venv
 # Logger
-game_state.jsonl
+game_state.jsonlbootdev run ae3772ed-186b-4ab2-82d6-3091e1d14f51 -s
+game_events.jsonl
